@@ -3228,7 +3228,7 @@ input, select, textarea {
 		overflow: hidden;
 	}
 
-		/* #wrapper > .bg {
+		#wrapper > .bg {
 			position: absolute;
 			top: 0;
 			left: 0;
@@ -3247,7 +3247,7 @@ input, select, textarea {
 				position: fixed;
 				width: 100vw;
 				height: 100vh;
-			} */
+			} 
 
 		#wrapper.fade-in:before {
 			pointer-events: none;
@@ -3286,7 +3286,7 @@ input, select, textarea {
 
 	#intro {
 		color: #ffffff;
-		/* padding: 8rem 4rem 6rem 4rem ;
+		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3311,7 +3311,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 100vh; */
+		min-height: 100vh; 
 	}
 
 		#intro input, #intro select, #intro textarea {
